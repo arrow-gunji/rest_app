@@ -1,2 +1,5 @@
 # rest_app
-Restサーバ
+## マイクロサービス用Restサーバ
+
+1. API Gateway
+1. EndpointService
