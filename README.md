@@ -1,5 +1,4 @@
 # rest_app
-## マイクロサービス用Restサーバ
+## Restサーバ開発
 
-1. API Gateway
-1. EndpointService
+Python3でRESTfulなAPIサーバーを構築する。
